@@ -7,3 +7,13 @@ npm-debug.log
 .idea/
 node_modules/
 yarn-error.log
+
+
+.dist
+.tmp
+.build
+.deploy
+.publish
+bower/
+server.json
+config/default.yml
